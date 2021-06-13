@@ -1,0 +1,26 @@
+C:\Users\EMRE\source\repos\b201210101_Odev2_Soru1\bin\Debug\netcoreapp3.1\b201210101_Odev2_Soru1.exe
+C:\Users\EMRE\source\repos\b201210101_Odev2_Soru1\bin\Debug\netcoreapp3.1\b201210101_Odev2_Soru1.deps.json
+C:\Users\EMRE\source\repos\b201210101_Odev2_Soru1\bin\Debug\netcoreapp3.1\b201210101_Odev2_Soru1.runtimeconfig.json
+C:\Users\EMRE\source\repos\b201210101_Odev2_Soru1\bin\Debug\netcoreapp3.1\b201210101_Odev2_Soru1.runtimeconfig.dev.json
+C:\Users\EMRE\source\repos\b201210101_Odev2_Soru1\bin\Debug\netcoreapp3.1\b201210101_Odev2_Soru1.dll
+C:\Users\EMRE\source\repos\b201210101_Odev2_Soru1\bin\Debug\netcoreapp3.1\b201210101_Odev2_Soru1.pdb
+C:\Users\EMRE\source\repos\b201210101_Odev2_Soru1\obj\Debug\netcoreapp3.1\b201210101_Odev2_Soru1.csprojAssemblyReference.cache
+C:\Users\EMRE\source\repos\b201210101_Odev2_Soru1\obj\Debug\netcoreapp3.1\b201210101_Odev2_Soru1.AssemblyInfoInputs.cache
+C:\Users\EMRE\source\repos\b201210101_Odev2_Soru1\obj\Debug\netcoreapp3.1\b201210101_Odev2_Soru1.AssemblyInfo.cs
+C:\Users\EMRE\source\repos\b201210101_Odev2_Soru1\obj\Debug\netcoreapp3.1\b201210101_Odev2_Soru1.csproj.CoreCompileInputs.cache
+C:\Users\EMRE\source\repos\b201210101_Odev2_Soru1\obj\Debug\netcoreapp3.1\b201210101_Odev2_Soru1.dll
+C:\Users\EMRE\source\repos\b201210101_Odev2_Soru1\obj\Debug\netcoreapp3.1\b201210101_Odev2_Soru1.pdb
+C:\Users\EMRE\source\repos\b201210101_Odev2_Soru1\obj\Debug\netcoreapp3.1\b201210101_Odev2_Soru1.genruntimeconfig.cache
+C:\Users\YUNUS EMRE\source\repos\b201210101_Odev2_Soru1\bin\Debug\netcoreapp3.1\b201210101_Odev2_Soru1.exe
+C:\Users\YUNUS EMRE\source\repos\b201210101_Odev2_Soru1\bin\Debug\netcoreapp3.1\b201210101_Odev2_Soru1.deps.json
+C:\Users\YUNUS EMRE\source\repos\b201210101_Odev2_Soru1\bin\Debug\netcoreapp3.1\b201210101_Odev2_Soru1.runtimeconfig.json
+C:\Users\YUNUS EMRE\source\repos\b201210101_Odev2_Soru1\bin\Debug\netcoreapp3.1\b201210101_Odev2_Soru1.runtimeconfig.dev.json
+C:\Users\YUNUS EMRE\source\repos\b201210101_Odev2_Soru1\bin\Debug\netcoreapp3.1\b201210101_Odev2_Soru1.dll
+C:\Users\YUNUS EMRE\source\repos\b201210101_Odev2_Soru1\bin\Debug\netcoreapp3.1\b201210101_Odev2_Soru1.pdb
+C:\Users\YUNUS EMRE\source\repos\b201210101_Odev2_Soru1\obj\Debug\netcoreapp3.1\b201210101_Odev2_Soru1.csprojAssemblyReference.cache
+C:\Users\YUNUS EMRE\source\repos\b201210101_Odev2_Soru1\obj\Debug\netcoreapp3.1\b201210101_Odev2_Soru1.AssemblyInfoInputs.cache
+C:\Users\YUNUS EMRE\source\repos\b201210101_Odev2_Soru1\obj\Debug\netcoreapp3.1\b201210101_Odev2_Soru1.AssemblyInfo.cs
+C:\Users\YUNUS EMRE\source\repos\b201210101_Odev2_Soru1\obj\Debug\netcoreapp3.1\b201210101_Odev2_Soru1.csproj.CoreCompileInputs.cache
+C:\Users\YUNUS EMRE\source\repos\b201210101_Odev2_Soru1\obj\Debug\netcoreapp3.1\b201210101_Odev2_Soru1.dll
+C:\Users\YUNUS EMRE\source\repos\b201210101_Odev2_Soru1\obj\Debug\netcoreapp3.1\b201210101_Odev2_Soru1.pdb
+C:\Users\YUNUS EMRE\source\repos\b201210101_Odev2_Soru1\obj\Debug\netcoreapp3.1\b201210101_Odev2_Soru1.genruntimeconfig.cache

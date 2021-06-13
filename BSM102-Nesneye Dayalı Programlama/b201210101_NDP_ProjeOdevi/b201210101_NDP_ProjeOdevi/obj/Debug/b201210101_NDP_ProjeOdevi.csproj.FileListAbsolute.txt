@@ -1,0 +1,10 @@
+C:\Users\YUNUS EMRE\source\repos\b201210101_NDP_ProjeOdevi\b201210101_NDP_ProjeOdevi\bin\Debug\b201210101_NDP_ProjeOdevi.exe.config
+C:\Users\YUNUS EMRE\source\repos\b201210101_NDP_ProjeOdevi\b201210101_NDP_ProjeOdevi\bin\Debug\b201210101_NDP_ProjeOdevi.exe
+C:\Users\YUNUS EMRE\source\repos\b201210101_NDP_ProjeOdevi\b201210101_NDP_ProjeOdevi\bin\Debug\b201210101_NDP_ProjeOdevi.pdb
+C:\Users\YUNUS EMRE\source\repos\b201210101_NDP_ProjeOdevi\b201210101_NDP_ProjeOdevi\obj\Debug\b201210101_NDP_ProjeOdevi.csprojAssemblyReference.cache
+C:\Users\YUNUS EMRE\source\repos\b201210101_NDP_ProjeOdevi\b201210101_NDP_ProjeOdevi\obj\Debug\b201210101_NDP_ProjeOdevi.Form1.resources
+C:\Users\YUNUS EMRE\source\repos\b201210101_NDP_ProjeOdevi\b201210101_NDP_ProjeOdevi\obj\Debug\b201210101_NDP_ProjeOdevi.Properties.Resources.resources
+C:\Users\YUNUS EMRE\source\repos\b201210101_NDP_ProjeOdevi\b201210101_NDP_ProjeOdevi\obj\Debug\b201210101_NDP_ProjeOdevi.csproj.GenerateResource.cache
+C:\Users\YUNUS EMRE\source\repos\b201210101_NDP_ProjeOdevi\b201210101_NDP_ProjeOdevi\obj\Debug\b201210101_NDP_ProjeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\YUNUS EMRE\source\repos\b201210101_NDP_ProjeOdevi\b201210101_NDP_ProjeOdevi\obj\Debug\b201210101_NDP_ProjeOdevi.exe
+C:\Users\YUNUS EMRE\source\repos\b201210101_NDP_ProjeOdevi\b201210101_NDP_ProjeOdevi\obj\Debug\b201210101_NDP_ProjeOdevi.pdb

@@ -1,0 +1,10 @@
+C:\Users\YUNUS EMRE\source\repos\b201210101_Odev2_Soru2\b201210101_Odev2_Soru2\bin\Debug\b201210101_Odev2_Soru2.exe.config
+C:\Users\YUNUS EMRE\source\repos\b201210101_Odev2_Soru2\b201210101_Odev2_Soru2\bin\Debug\b201210101_Odev2_Soru2.exe
+C:\Users\YUNUS EMRE\source\repos\b201210101_Odev2_Soru2\b201210101_Odev2_Soru2\bin\Debug\b201210101_Odev2_Soru2.pdb
+C:\Users\YUNUS EMRE\source\repos\b201210101_Odev2_Soru2\b201210101_Odev2_Soru2\obj\Debug\b201210101_Odev2_Soru2.csprojAssemblyReference.cache
+C:\Users\YUNUS EMRE\source\repos\b201210101_Odev2_Soru2\b201210101_Odev2_Soru2\obj\Debug\b201210101_Odev2_Soru2.Form1.resources
+C:\Users\YUNUS EMRE\source\repos\b201210101_Odev2_Soru2\b201210101_Odev2_Soru2\obj\Debug\b201210101_Odev2_Soru2.Properties.Resources.resources
+C:\Users\YUNUS EMRE\source\repos\b201210101_Odev2_Soru2\b201210101_Odev2_Soru2\obj\Debug\b201210101_Odev2_Soru2.csproj.GenerateResource.cache
+C:\Users\YUNUS EMRE\source\repos\b201210101_Odev2_Soru2\b201210101_Odev2_Soru2\obj\Debug\b201210101_Odev2_Soru2.csproj.CoreCompileInputs.cache
+C:\Users\YUNUS EMRE\source\repos\b201210101_Odev2_Soru2\b201210101_Odev2_Soru2\obj\Debug\b201210101_Odev2_Soru2.exe
+C:\Users\YUNUS EMRE\source\repos\b201210101_Odev2_Soru2\b201210101_Odev2_Soru2\obj\Debug\b201210101_Odev2_Soru2.pdb
