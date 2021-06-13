@@ -1,0 +1,5 @@
+k.ayar 123456
+c.bayilmis 987654
+c.oz 1379
+y.e.a 159357
+

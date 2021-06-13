@@ -1,0 +1,6 @@
+﻿  PG_Odev2_b201210101.cpp
+C:\Users\EMRE\source\repos\PG_Odev2_b201210101\PG_Odev2_b201210101.cpp(29,16): warning C4309: 'başlatılıyor': sabit değer kesildi
+C:\Users\EMRE\source\repos\PG_Odev2_b201210101\PG_Odev2_b201210101.cpp(231,9): warning C4101: 'kat': yerel değişken başvurusu kaldırıldı
+C:\Users\EMRE\source\repos\PG_Odev2_b201210101\PG_Odev2_b201210101.cpp(237,10): warning C4101: 'kapi': yerel değişken başvurusu kaldırıldı
+C:\Users\EMRE\source\repos\PG_Odev2_b201210101\PG_Odev2_b201210101.cpp(225,10): warning C4101: 'cati': yerel değişken başvurusu kaldırıldı
+  PG_Odev2_b201210101.vcxproj -> C:\Users\EMRE\source\repos\PG_Odev2_b201210101\Debug\PG_Odev2_b201210101.exe
