@@ -45,7 +45,7 @@ void IkiYonlu::Ekle(int sira, string isim) {
 	//Listede olmayan bir "sira" gelirse diye kosul
 	//Burada bu kontrolu yapmak yerine DugumGetir() fonksiyonunda istenen "sira" yoksa son dugumu dondurebilirdik
 	//ya da daha duzenli olmasi icin sonDugumGetir() adinda bir fonksiyon yazip ayni isi yapabilirdik.  
-	else if (sira >= dugumSayisi) 
+	else if (sira >= dugumSayisi||sira<0) 
 	{
 		Ekle(isim);
 	}
