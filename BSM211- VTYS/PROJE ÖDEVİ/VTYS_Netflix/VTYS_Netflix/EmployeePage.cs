@@ -22,7 +22,7 @@ namespace VTYS_Netflix
         public void calisanGoster(NpgsqlConnection con)
         {
             con.Open();
-            sorgu = "select * from \"public\".\"Employees\" where \"Id\">0";
+            sorgu = "select * from \"public\".\"Employees\" where \"Id\">0 order by \"Id\"";
             NpgsqlDataAdapter da = new NpgsqlDataAdapter(sorgu, con);
             DataSet ds = new DataSet();
             da.Fill(ds);

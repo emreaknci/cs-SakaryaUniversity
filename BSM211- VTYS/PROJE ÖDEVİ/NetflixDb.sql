@@ -482,7 +482,7 @@ CREATE TABLE public."Employees" (
     "LastName" character varying(50) NOT NULL,
     "Phone" character varying(11) NOT NULL,
     "Email" character varying(255) NOT NULL,
-    "DepartmentId" integer NOT NULL,
+    "DepartmentId" integer DEFAULT 0 NOT NULL,
     "CityId" integer NOT NULL,
     "CountyId" integer NOT NULL
 );
