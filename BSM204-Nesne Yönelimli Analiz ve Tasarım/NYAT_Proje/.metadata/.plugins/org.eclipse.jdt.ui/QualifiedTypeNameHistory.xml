@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="dataAccess.IDbRepository"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="business.abstracts.IObserver"/>
+    <fullyQualifiedTypeName name="business.abstracts.ISogutucuSistemService"/>
+    <fullyQualifiedTypeName name="business.abstracts.IEkranService"/>
+    <fullyQualifiedTypeName name="business.concretes.EkranManager"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="business.abstracts.IKlavyeService"/>
+    <fullyQualifiedTypeName name="business.concretes.KlavyeManager"/>
+    <fullyQualifiedTypeName name="java.sql.Statement"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="business.concretes.SogutucuSistemManager"/>
+    <fullyQualifiedTypeName name="business.concretes.EyleyiciManager"/>
+    <fullyQualifiedTypeName name="business.concretes.ArayuzManager"/>
+    <fullyQualifiedTypeName name="business.concretes.SicaklikAlgilayiciManager"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="core.Utilities"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="dataAccess.DbRepositoryType"/>
+    <fullyQualifiedTypeName name="business.abstracts.IDbDriverFactory"/>
+    <fullyQualifiedTypeName name="dataAccess.PostgreSQLSurucusu"/>
+    <fullyQualifiedTypeName name="dataAccess.SanalVeritabaniSurucusu"/>
+    <fullyQualifiedTypeName name="dataAccess.OracleSurucusu"/>
+    <fullyQualifiedTypeName name="javax.swing.plaf.synth.Region"/>
+    <fullyQualifiedTypeName name="java.util.Observer"/>
+    <fullyQualifiedTypeName name="business.abstracts.IArayuzService"/>
+    <fullyQualifiedTypeName name="business.abstracts.IKullaniciService"/>
+    <fullyQualifiedTypeName name="business.abstracts.IEyleyiciService"/>
+    <fullyQualifiedTypeName name="business.abstracts.ISicaklikAlgiliayiciService"/>
+    <fullyQualifiedTypeName name="entity.Durum"/>
+    <fullyQualifiedTypeName name="business.concretes.Subject"/>
+    <fullyQualifiedTypeName name="business.concretes.NoticeObservable"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="business.abstracts.Observer"/>
+    <fullyQualifiedTypeName name="business.abstracts.Observable"/>
+    <fullyQualifiedTypeName name="business.concretes.DbDriverFactory"/>
+    <fullyQualifiedTypeName name="business.concretes.KullaniciManager"/>
+    <fullyQualifiedTypeName name="core.dataAccess.IDbRepository"/>
+    <fullyQualifiedTypeName name="entity.Kullanici"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+</qualifiedTypeNameHistroy>

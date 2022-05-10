@@ -1,0 +1,55 @@
+1650363511386	Rename package 'kodlar.consoleUI'
+1650364230311	Delete element
+1650364718778	Move compilation unit
+1650364740921	Move compilation unit
+1650364816543	Rename package 'core.tools'
+1650364871478	Delete element
+1650369368490	Move file
+1650369460980	Move file
+1650390028743	Delete element
+1650401272573	Delete element
+1650401277779	Delete element
+1650461643617	Convert local variable 'input' to field
+1650461919499	Delete element
+1650461928152	Delete element
+1650462032228	Delete element
+1650462046464	Delete element
+1650623417478	Rename type 'DbRepositoryType'
+1650627619722	Delete element
+1650627724639	Delete element
+1650633417256	Rename method 'Attach'
+1650633425440	Rename method 'Detach'
+1650635585633	Delete element
+1650635941161	Rename field 'kullaniciService'
+1650635964091	Delete element
+1650635967853	Delete element
+1650637341883	Rename type 'Utilities'
+1650638661077	Rename method 'sogutucuKapt'
+1650640622681	Rename field 'dbRepository'
+1650640635559	Rename local variable 'dbRepository'
+1650660699657	Delete element
+1650660705263	Delete element
+1650662226594	Delete element
+1650662228501	Delete element
+1650662230868	Delete element
+1650663385702	Rename method 'subscibe'
+1650663394042	Rename method 'unsubscibe'
+1650713390927	Rename method 'kullaniciDogrula'
+1650713412958	Rename method 'kullaniciDogrula'
+1650713428976	Rename method 'kullaniciVer'
+1650715714888	Rename method 'update'
+1650716696931	Rename method 'sicaklikDondur'
+1650716722770	Rename method 'sicaklikDondur'
+1650720232967	Rename method 'durumGor2'
+1650724242877	Rename method 'GetDbDriver'
+1650724251554	Rename method 'etDbDriverByType'
+1650726984677	Delete element
+1650727044688	Delete element
+1650749622738	Rename type 'IArayuzService'
+1650749645706	Rename type 'ArayuzManager'
+1650749669142	Rename local variable 'arayuz'
+1650749682165	Rename local variable 'sogutucu'
+1650749695441	Rename type 'SogutucuSistemManager'
+1650749711125	Rename type 'ISogutucuSistemService'
+1650749727639	Rename type 'ITempService'
+1650749741147	Rename type 'TempManager'

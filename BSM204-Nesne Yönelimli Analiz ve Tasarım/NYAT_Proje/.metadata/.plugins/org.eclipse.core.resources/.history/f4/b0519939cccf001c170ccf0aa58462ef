@@ -1,0 +1,8 @@
+package business.abstracts;
+
+import entity.Kullanici;
+
+public interface ISogutucuService {
+	void basla();
+
+}

@@ -1,0 +1,41 @@
+package dataAccess;
+
+import core.dataAccess.IDbRepository;
+import entity.Kullanici;
+
+public class SanalVeritabaniSurucusu implements IDbRepository {
+
+	@Override
+	public Kullanici kullaniciDondur(String ad, String sifre) {
+		Kullanici kullanici = new Kullanici(1, ad, sifre);
+		return kullanici;
+	}
+
+	@Override
+	public void durumGuncelle(int durum, Kullanici kullanici) {
+		// TODO Auto-generated method stub
+	}
+
+	@Override
+	public boolean kullaniciAdiDogrula(String ad) {
+		if (ad == "emreaknci")
+			return true;
+
+		return false;
+	}
+
+	@Override
+	public boolean sifreDogrula(String ad, String sifre) {
+		if (ad == "emreaknci" && sifre == "123456")
+			return true;
+
+		return false;
+	}
+
+	@Override
+	public int mevcutDurumGonder() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\NYAT_Proje\.metadata\.plugins\org.eclipse.jdt.core
+925653854.index
+3799493716.index
+760091825.index
+1865797976.index
